@@ -166,3 +166,6 @@ Thumbs.db
 
 # csv
 *.csv
+
+#models
+*.sav
