@@ -1,6 +1,6 @@
 # Introduction
 
-Le projet de ce notebook a été réalisé dans le cadre du cours STA211 : [Entreprosage et fouille de données](https://formation.cnam.fr/rechercher-par-discipline/entreposage-et-fouille-de-donnees-208836.kjsp) dispensé par  Ndeye Niang Keita et Vincent Audigier au CNAM de Paris.
+Le projet de ce notebook a été réalisé dans le cadre du cours [STA211: Entreprosage et fouille de données](https://formation.cnam.fr/rechercher-par-discipline/entreposage-et-fouille-de-donnees-208836.kjsp) dispensé par  Ndeye Niang Keita et Vincent Audigier au CNAM de Paris.
 
 Ce dernier est le fruit d'une collaboration avec [Marinette Simon](https://github.com/MSimonL) et [Thomas Lebrat](https://github.com/ThomasLebrat).
 
